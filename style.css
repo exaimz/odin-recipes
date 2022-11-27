@@ -31,10 +31,9 @@ h1 {
     text-decoration: none;
 }
 
-a:hover {
+li a:hover {
     color: aquamarine;
 }
-
 
 img {
     height: auto;
