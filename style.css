@@ -1,0 +1,33 @@
+body {
+   font-family: "Arial", sans-serif; 
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    color: slategray;
+    font-size: 50px;
+}
+
+ul {
+    padding: 10px;
+    background-color: rgb(128, 139, 151);
+    text-align: center;
+}
+
+ul li {
+    
+    display: inline;
+}
+
+a {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aquamarine;
+}
