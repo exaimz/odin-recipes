@@ -2,6 +2,7 @@ body {
    font-family: "Arial", sans-serif; 
 }
 
+
 h1 {
     text-align: center;
     background-color: aquamarine;
@@ -9,18 +10,20 @@ h1 {
     font-size: 50px;
 }
 
-ul {
+ 
+.recipies {
     padding: 10px;
     background-color: rgb(128, 139, 151);
     text-align: center;
 }
 
-ul li {
+.recipies li {
     
     display: inline;
 }
 
-a {
+
+.recipies li a {
     font-size: 18px;
     font-weight: bold;
     padding: 20px;
@@ -31,6 +34,7 @@ a {
 a:hover {
     color: aquamarine;
 }
+
 
 img {
     height: auto;
